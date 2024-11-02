@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chase-cell
+- 👋 Hi, I’m @ByteChase
 - 👀 I’m interested in learning more about penetration testing and ethical hacking! 
 - 🌱 I’m currently going through the INE eJPT course. 
 - 💞️ I’m looking to create a portfolio to share the labs I have worked on!  
